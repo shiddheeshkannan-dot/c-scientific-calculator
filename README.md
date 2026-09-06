@@ -1,4 +1,4 @@
-# 🧮 C Scientific Calculator
+#  C Scientific Calculator
 
 A simple command-line scientific calculator written in **C** using functions and the `math.h` library.
 
